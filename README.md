@@ -8,4 +8,9 @@ vs = cv2.VideoCapture(0)
 as 0,1 or 2 
 If u are getting errors in the code.
 
+Run the file with Python 3.7.8 version 
+To install-
+
+Go to cmd prompt => Open as admin => write 'pip install python==3.7.8' 
+
 I simply suggests what type of webcam you want to use.....enjoy ! 
